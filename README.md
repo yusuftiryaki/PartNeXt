@@ -29,3 +29,6 @@ Geleneksel 2D destekli (Knowledge Distillation) veya kaba hiyerarşili modelleri
 
 Python 3.10+ ve CUDA destekli bir sistem önerilmektedir. 
 
+## 💻 HF Space
+
+https://huggingface.co/spaces/yusuf-tiryaki/PartNeXt
